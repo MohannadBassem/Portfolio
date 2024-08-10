@@ -38,7 +38,7 @@ export const PROJECTS = [
     title: "Django Register Login System (RLS)",
     image: RLS,
     description:
-      "Developed and fine-tuned a Generative Adversarial Network (GAN) to generate synthetic emotional speech data, increasing the training dataset size by 50%. Conducted extensive testing and validation, achieving an accuracy rate of 94% in classifying emotions from speech across a dataset of 10,000 samples. Collaborated with a cross-functional team to ensure seamless integration of the enhanced emotion recognizer into production systems, reducing deployment time by 30%.  ",
+      "Django Register Login System provides a secure and efficient user authentication solution, featuring registration, login, and SMTP-based email verification. It ensures a seamless and secure user experience for web applications.",
     technologies: ["Python", "Django", "HTML", "CSS"],
   },
   {
@@ -66,14 +66,14 @@ export const PROJECTS = [
     title: "Medicine Reminder App",
     image: MedicineReminder,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Medicine Reminder App helps users stay on top of their health by sending timely reminders to take their medications. It ensures consistent medication adherence, making it easier to manage daily doses and maintain a healthy routine.",
     technologies: ["Flutter"],
   },
   {
     title: "Health Care App",
     image: healthCare,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Health Care App empowers users to manage their health with ease, offering features like appointment scheduling, health tracking, and personalized wellness tips. It's your all-in-one tool for maintaining a healthier lifestyle.",
     technologies: ["C#", "MySQL"],
   },
   {
